@@ -15,12 +15,24 @@
 - 
 - 
 
-## Code Examples
+## Code Snippets
+
+### Snippet 1
 
 ```rust
-fn main() {
-    println!("Hello, world!");
-}
+// Paste your code here
+```
+
+### Snippet 2
+
+```rust
+// Paste your code here
+```
+
+### Snippet 3
+
+```rust
+// Paste your code here
 ```
 
 ## Things I Found Interesting
